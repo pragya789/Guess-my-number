@@ -1,0 +1,65 @@
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 60px;
+}
+.between{
+    color: white;
+    padding-left: 1200px;
+    margin-top:-170px;
+    font-size: 20px;
+}
+.btnAgain {
+    margin-left: 10px;
+    margin-bottom: 100px;
+    font-size: 20px;
+    font-style:unset;
+    padding: 8px;
+}
+.guess{
+    font-size: 20px;
+    box-sizing:content-box;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+
+}
+.check{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.message{
+    margin-left: 1000px;
+    font-size: 30px;
+    color: white;
+}
+.label-score{
+    margin-left: 1000px;
+    font-size: 30px;
+    color: white;
+}
+.label-highscore{
+    margin-left: 1000px;
+    font-size: 30px;
+    color: white;
+}
+.number{
+    box-sizing: inherit;
+    padding: 50px;
+    border: salmon;
+    background-color:white;
+    border-style: dotted;
+    box-sizing:inherit;
+    margin:800px;
+    margin-top: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+main{
+    margin-top: -900px;
+}
